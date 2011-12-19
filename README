@@ -7,7 +7,7 @@ yavta:
 Testprogram to test drivers for OMAP ISP.
 
 devmem2:
-Simple program to write to registers.
+Simple program to read or write to any memory location.
 
 scripts:
 Different scripts for setting up camera drivers and capturing video.
