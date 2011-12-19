@@ -1,0 +1,6 @@
+[submodule "media-ctl"]
+	path = media-ctl
+	url = git://git.ideasonboard.org/media-ctl.git
+[submodule "yavta"]
+	path = yavta
+	url = git://git.ideasonboard.org/yavta.git
