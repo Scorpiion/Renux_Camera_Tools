@@ -1,0 +1,14 @@
+A set of programs and script to use ISP camera on OMAP.
+
+media-ctl:
+Used to setup pipeline of OMAP ISP.
+
+yavta:
+Testprogram to test drivers for OMAP ISP.
+
+devmem2:
+Simple program to write to registers.
+
+scripts:
+Different scripts for setting up camera drivers and capturing video.
+
