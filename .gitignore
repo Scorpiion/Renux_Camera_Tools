@@ -1,0 +1,11 @@
+# Files to ignore
+
+/media-ctl/localInstall/
+/yavta/usr/
+/devmem2/usr/
+
+/devmem2-package.tar.gz
+/media-ctl-package.tar.gz
+/yavta-package.tar.gz
+
+
